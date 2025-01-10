@@ -1,0 +1,63 @@
+# Java and Maven
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.tmp
+*.swp
+*.swo
+*.iml
+.classpath
+.project
+.settings/
+.idea/
+*.ipr
+*.iws
+.DS_Store
+mvnw
+mvnw.cmd
+
+# Test Reports and Logs
+/test-output/
+*.log
+*.html
+
+# OS-specific files
+Thumbs.db
+desktop.ini
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Logs
+*.log
+*.out
+
+# Extent Report Files
+test-output/
+ExtentReport.html
+
+# WebDriver Executables
+*.exe
+chromedriver
+geckodriver
+
+# Dependency Directories
+node_modules/
+.env
+
+# API Testing Tools
+.rest_assured.json
+*.json
+
+# Others
+*.bak
+*.tmp
