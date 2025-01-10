@@ -1,2 +1,6 @@
 # UI_API_Automation_Project_Fact_Finder
-A combined API and UI automation framework using Java, Selenium, Rest-Assured, TestNG, and Cucumber. Features include HTTP call validation, web UI automation with POM, JSON serialization, cross-browser testing, and Extent Reports for comprehensive test results. Managed with Maven for seamless dependency handling.
+## API Automation Project
+A framework built using Java, Rest-Assured, and TestNG to validate API responses. Includes features for HTTP calls, response assertion, JSON serialization/deserialization, and detailed Extent Reports.
+
+## UI Automation Project
+A Selenium-based framework with Cucumber and TestNG for automating web UI tests. Features include cross-browser testing, BDD feature files, page object model implementation, and Extent Reports for test execution results.
