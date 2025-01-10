@@ -1,4 +1,3 @@
-# UI_API_Automation_Project_Fact_Finder
 ## API Automation Project
 A framework built using Java, Rest-Assured, and TestNG to validate API responses. Includes features for HTTP calls, response assertion, JSON serialization/deserialization, and detailed Extent Reports.
 
